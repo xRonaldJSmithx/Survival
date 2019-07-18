@@ -60,6 +60,9 @@
      <Compile Include="Assets\Navigation Example\NavAgentRootMotion.cs" />
      <Compile Include="Assets\Navigation Example\SlidingDoorDemo.cs" />
      <Compile Include="Assets\Survival Tutorial\Scripts\AIWaypointNetwork.cs" />
+     <Compile Include="Assets\Survival Tutorial\Scripts\Controller.cs" />
+     <Compile Include="Assets\Survival Tutorial\Scripts\SmoothCameraMount.cs" />
+     <Compile Include="Assets\Survival Tutorial\Scripts\SpeedController.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>E:/My Downloads/Survival/Rick&apos;s Tutorial/Survival Tutorial/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
