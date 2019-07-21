@@ -55,14 +55,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Navigation Example\Controller.cs" />
      <Compile Include="Assets\Navigation Example\NavAgentExample.cs" />
      <Compile Include="Assets\Navigation Example\NavAgentNoRootMotion.cs" />
      <Compile Include="Assets\Navigation Example\NavAgentRootMotion.cs" />
      <Compile Include="Assets\Navigation Example\SlidingDoorDemo.cs" />
+     <Compile Include="Assets\Navigation Example\SmoothCameraMount.cs" />
+     <Compile Include="Assets\Navigation Example\SpeedController.cs" />
      <Compile Include="Assets\Survival Tutorial\Scripts\AIWaypointNetwork.cs" />
-     <Compile Include="Assets\Survival Tutorial\Scripts\Controller.cs" />
-     <Compile Include="Assets\Survival Tutorial\Scripts\SmoothCameraMount.cs" />
-     <Compile Include="Assets\Survival Tutorial\Scripts\SpeedController.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>E:/My Downloads/Survival/Rick&apos;s Tutorial/Survival Tutorial/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
