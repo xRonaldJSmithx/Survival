@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.AI;
 
 public enum PathDisplayMode { None, Connections, Paths }
 public class AIWaypointNetwork : MonoBehaviour
